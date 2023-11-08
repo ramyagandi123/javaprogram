@@ -1,0 +1,10 @@
+package stringsAssignment1;
+
+public class MapLetters {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
